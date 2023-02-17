@@ -1,0 +1,40 @@
+История команд:
+sudo apt update
+sudo apt install mysql-server
+sudo mysql_secure_installation
+mysql -uroot -p
+SELECT user,authentication_string,plugin,host FROM mysql.user;
+FLUSH PRIVILEGES;
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;
+exit
+sudo apt update
+sudo apt install nginx
+sudo ufw app list
+sudo ufw allow 'Nginx HTTP'
+sudo ufw status
+systemctl status nginx
+curl -4 icanhazip.com
+sudo systemctl stop nginx
+sudo systemctl start nginx
+sudo systemctl restart nginx
+sudo systemctl reload nginx
+sudo systemctl disable nginx
+sudo systemctl enable nginx
+"Команды в MySQL" {
+CREATE DATABASE Друзья_человека;
+SHOW DATABASES;
+create table Домашние_животные ( id INT AUTO_INCREMENT PRIMARY KEY, Animal_name varchar(40), Animal_comands varchar(60), Animal_birthdate varchar(20) );
+create table Вьючные_животные ( id INT AUTO_INCREMENT PRIMARY KEY, Animal_name varchar(40), Animal_comands varchar(60), Animal_birthdate varchar(20) );
+insert into Домашние_животные values(1,'Dog(Baron)','Sit,stand,lay','21.01.2020');
+insert into Домашние_животные values(2,'Cat(Melisa)','lay,give hand','18.06.2018');
+insert into Домашние_животные values(3,'Humster(Bob)','Dot do comands','22.09.2023');
+select * from Домашние_животные;
+insert into Вьючные_животные values(1,'Horse(Maggy)','Dont do comands','11.07.2023');
+insert into Вьючные_животные values(2,'Camel(Rouse)','Dont do comands','27.11.2019');
+insert into Вьючные_животные values(3,'Goat(Axe)','Dont do comands','10.05.2017');
+select * from Вьючные_животные;
+delete from Вьючные_животные where Animal_name like 'Camel'; (delete from Вьючные_животные where id = 2;)
+SELECT * FROM HORSE INNER JOIN GOAT;
+create table Молодые_животные ( id INT AUTO_INCREMENT PRIMARY KEY, Animal_name varchar(40), Animal_comands varchar(60), Animal_birthdate varchar(20), Animal_age varchar(20) );
+SELECT * FROM Вьючные_животные, Домашние_животные where Animal_birthdate
+between '16.02.2000' and '16.02.2023' INNER JOIN Молодые_животные;

@@ -1,4 +1,0 @@
-Ключ для GitHub: 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
-
-Вход в MySQL: mysql -uroot -p
-Пароль: Wladosik_2121
