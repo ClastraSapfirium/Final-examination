@@ -1,0 +1,111 @@
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\appsettings.Development.json
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\appsettings.json
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.exe
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.deps.json
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.runtimeconfig.json
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.pdb
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.csproj.AssemblyReference.cache
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.AssemblyInfoInputs.cache
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.AssemblyInfo.cs
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.csproj.CoreCompileInputs.cache
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.MvcApplicationPartsAssemblyInfo.cs
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.MvcApplicationPartsAssemblyInfo.cache
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.ClinicService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.build.ClinicService.props
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClinicService.props
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClinicService.props
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets.build.json
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets.development.json
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\scopedcss\bundle\ClinicService.styles.css
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.csproj.CopyComplete
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\refint\ClinicService.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.pdb
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.genruntimeconfig.cache
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net6.0\ref\ClinicService.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\sources\gb\SoftwareArch\group3\lesson10\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.exe
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.deps.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.runtimeconfig.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.pdb
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.ClinicService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.build.ClinicService.props
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClinicService.props
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClinicService.props
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\scopedcss\bundle\ClinicService.styles.css
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.csproj.CopyComplete
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\refint\ClinicService.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.pdb
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Архитектура ПО\HW_11\ClinicService\ClinicService\obj\Debug\net6.0\ref\ClinicService.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.exe
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.deps.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.runtimeconfig.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\ClinicService.pdb
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.ClinicService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.build.ClinicService.props
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ClinicService.props
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ClinicService.props
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\scopedcss\bundle\ClinicService.styles.css
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.csproj.CopyComplete
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\refint\ClinicService.dll
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.pdb
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ClinicService.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Архитектура ПО\HW_12\ClinicService\ClinicService\obj\Debug\net6.0\ref\ClinicService.dll
